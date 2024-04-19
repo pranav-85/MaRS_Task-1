@@ -1,5 +1,5 @@
 # MaRS_Task-1
-### Pushing question-1 into github (Used 
+### Pushing question-1 into github 
 
 ```bash
 git add .
